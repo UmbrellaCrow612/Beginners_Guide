@@ -1,1 +1,1 @@
-Go to https://umbrellacrow612.github.io/Beginners_Guide/ 
+Go to https://beginners-guide.vercel.app/ 
